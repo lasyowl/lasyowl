@@ -2,7 +2,7 @@
 ### 0. ECS based cross-platform render engine
   - Dec.2023 ~ Present
   - Personal project for graphics study
-  - C/C++, DirectX12
+  - C/C++, DirectX12, DXR
   - GitHub : [Link](https://github.com/lasyowl/AtomicEngine)
 
 ### 1. Private game server
